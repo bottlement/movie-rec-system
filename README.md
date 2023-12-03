@@ -20,16 +20,20 @@ pip install jupyter
 ------------------------------------------------
 #### Requierments
 ```
-Python =3.10.2
-Pandas =1.2.4
+Python =3.12.0
+Pandas =2.1.3
 ```
 ### 사용방법
 ------------------------------------------------
 
+Working process...
 
 ### 라이선스
 ------------------------------------------------
 ```
+MIT License
+
+Copyright (c) 2023 Movie Recommendation System
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
