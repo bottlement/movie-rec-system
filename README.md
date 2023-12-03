@@ -31,9 +31,10 @@ Working process...
 ### 라이선스
 ------------------------------------------------
 ```
+
 MIT License
 
-Copyright (c) 2023 Movie Recommendation System
+Copyright (c) 2023 Namoz Mamadkarimov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
