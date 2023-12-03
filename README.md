@@ -57,5 +57,5 @@ SOFTWARE.
 
 ### Autor
 ------------------------------------------------
-> Namozmuhammadkarim, namozmuhammadkarim@gmail.com, ChungBuk National Univ(Undergraduate).
+> NamozMamadkarimov, namozmuhammadkarim@gmail.com, ChungBuk National Univ(Undergraduate).
 -----------------------------------------------
