@@ -1,4 +1,4 @@
-# MOVIE RECOMMENDER SYSTEM
+# 🎞️ MOVIE RECOMMENDER SYSTEM
 -----------------------------------------------
 ![Banner-1](https://github.com/namazkhan/movie-rec-system/assets/74997441/be3a0bd8-d0e6-442e-a7ee-9b67cc3ade8c)
 
