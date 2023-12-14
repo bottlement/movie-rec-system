@@ -26,7 +26,7 @@ Anaconda 4+ (optional)
 ### 사용방법
 ------------------------------------------------
 
-Try here: https://namazkhan.github.io/movie-rec-system/
+Try it here: https://namazkhan.github.io/movie-rec-system/
 
 ### 라이선스
 ------------------------------------------------
