@@ -1,36 +1,5 @@
-# 🎞️ MOVIE RECOMMENDER SYSTEM
------------------------------------------------
-![Banner-1](https://github.com/namazkhan/movie-rec-system/assets/74997441/be3a0bd8-d0e6-442e-a7ee-9b67cc3ade8c)
 
-### 프로젝트 설명 
------------------------------------------------
-```
-영화 추천 시스템 프로젝트는 사용자의 선호도, 과거 데이터 및 기타 관련 요소를 기반으로 사용자에게 영화를 추천하는 지능적이고 사용자 친화적인 플랫폼을 개발하는 것을 목표로 합니다. 이 시스템은 협업 필터링과 콘텐츠 기반 필터링 기술을 결합하여 영화 추천의 정확성과 개인화를 향상시킵니다.
-```
-### 프로그램 설치 방법
------------------------------------------------
-```
-# Python Download
-http://www.python.org/downloads
-
-# Jupyter notebook download
 pip install jupyter
-```
-### 의존성
-------------------------------------------------
-#### Requierments
-```
-Python 3.12+
-Anaconda 4+ (optional)
-```
-### 사용방법
-------------------------------------------------
-
-Try it here: https://namazkhan.github.io/movie-rec-system/
-
-### 라이선스
-------------------------------------------------
-```
 
 MIT License
 
